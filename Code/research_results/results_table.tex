@@ -1,0 +1,20 @@
+\begin{table}[htbp]
+\centering
+\caption{Evaluation Results Across Pipeline Modes}
+\label{tab:results}
+\begin{tabular}{lcccccc}
+\toprule
+Method & CR (\%) & \#LU & ROUGE-1 & ROUGE-L & LR-1 (\%) & LR-2 (\%) \\
+\midrule
+\multicolumn{7}{l}{\textit{Short Story (1639 words)}} \\
+  ReadAgent-P (Base) & 65.3 & 1.0 & 0.365 & 0.329 & 66.7 & 83.3 \\
+  Predictive Gisting & 56.2 & 1.3 & 0.536 & 0.484 & 83.3 & 83.3 \\
+  Diff. Retrieval & 65.7 & 2.0 & 0.466 & 0.406 & 83.3 & 100.0 \\
+\midrule
+\multicolumn{7}{l}{\textit{Medium Ai Story (2464 words)}} \\
+  ReadAgent-P (Base) & 70.5 & 1.0 & 0.620 & 0.573 & 100.0 & 100.0 \\
+  Predictive Gisting & 62.2 & 1.2 & 0.689 & 0.590 & 100.0 & 100.0 \\
+  Diff. Retrieval & 73.1 & 1.7 & 0.594 & 0.533 & 100.0 & 100.0 \\
+\bottomrule
+\end{tabular}
+\end{table}

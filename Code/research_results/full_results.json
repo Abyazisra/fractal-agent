@@ -1,0 +1,1170 @@
+{
+  "short_story": {
+    "word_count": 1639,
+    "modes": {
+      "base": {
+        "per_question": [
+          {
+            "question": "What frequency was the signal detected on, and why is that frequency significant?",
+            "reference": "The signal was detected on the 1420 MHz hydrogen line, known as the water hole frequency, which SETI researchers theorized would be used by intelligent civilizations.",
+            "answer": "The signal was detected on the **1420 MHz hydrogen line**, also known as the \"water hole\" frequency. This frequency is significant because SETI researchers have long theorized that intelligent civilizations might use it for communication, as hydrogen is the most abundant element in the universe and a natural landmark in the electromagnetic spectrum.",
+            "rouge": {
+              "rouge1": 0.5569620253164558,
+              "rouge2": 0.4155844155844156,
+              "rougeL": 0.5316455696202532
+            },
+            "lr1": 1,
+            "lr2": 1,
+            "cr": 65.1006711409396,
+            "lookups": 1,
+            "pages": 5
+          },
+          {
+            "question": "How did Marco verify the signal was not human-made interference?",
+            "reference": "Marco determined the signal had no sidelobes, no harmonics, and no drift consistent with a terrestrial or orbital source. It was clean and repeated every 73 seconds, the 21st prime number.",
+            "answer": "Marco verified the signal was not human-made interference by having it independently confirmed by three separate facilities—the Allen Telescope Array, the Square Kilometre Array, and FAST—each detecting the same signal with identical structure and timing.",
+            "rouge": {
+              "rouge1": 0.2608695652173913,
+              "rouge2": 0.029850746268656716,
+              "rougeL": 0.17391304347826086
+            },
+            "lr1": 0,
+            "lr2": 1,
+            "cr": 67.05308114704087,
+            "lookups": 1,
+            "pages": 5
+          },
+          {
+            "question": "What was embedded within the secondary layer of the signal?",
+            "reference": "The secondary layer contained mathematical constants: Pi to 150 decimal places, Euler's number to 100 places, the fine structure constant, and then an unknown sequence describing an alien amino acid molecule.",
+            "answer": "A simple binary image showing a star, an orbiting planet, and a four-limbed figure standing on the planet's surface.",
+            "rouge": {
+              "rouge1": 0.1509433962264151,
+              "rouge2": 0.0,
+              "rougeL": 0.07547169811320754
+            },
+            "lr1": 0,
+            "lr2": 0,
+            "cr": 63.81940207443564,
+            "lookups": 1,
+            "pages": 4
+          },
+          {
+            "question": "What was the UN vote result on whether to respond to the signal?",
+            "reference": "The UN voted 157-34 in favor of composing a response, with the United States, Russia, and China all voting in favor.",
+            "answer": "157-34",
+            "rouge": {
+              "rouge1": 0.16666666666666669,
+              "rouge2": 0.0909090909090909,
+              "rougeL": 0.16666666666666669
+            },
+            "lr1": 1,
+            "lr2": 1,
+            "cr": 64.24649176327028,
+            "lookups": 1,
+            "pages": 4
+          },
+          {
+            "question": "What did Elena insist on including in humanity's response message?",
+            "reference": "Elena insisted on including a recording of Bach's Cello Suite No. 1, because she believed it captured something essential about human nature beyond mathematics and chemistry.",
+            "answer": "A recording of Bach's Cello Suite No. 1.",
+            "rouge": {
+              "rouge1": 0.5,
+              "rouge2": 0.47058823529411764,
+              "rougeL": 0.5
+            },
+            "lr1": 1,
+            "lr2": 1,
+            "cr": 67.05308114704087,
+            "lookups": 1,
+            "pages": 4
+          },
+          {
+            "question": "What happened when the alien response arrived in 2036?",
+            "reference": "A new signal arrived containing a frequency analysis of Bach's Cello Suite No. 1 reconstructed with subtle modifications. The aliens had listened to the music and sent back their own version.",
+            "answer": "In 2036, the Meridian Array detected a new signal from Proxima Centauri—a direct response to humanity's message. It included a frequency analysis of Bach's *Cello Suite No. 1*, modified by the aliens, confirming they had listened to and appreciated the music.",
+            "rouge": {
+              "rouge1": 0.5526315789473685,
+              "rouge2": 0.4054054054054055,
+              "rougeL": 0.5263157894736842
+            },
+            "lr1": 1,
+            "lr2": 1,
+            "cr": 64.24649176327028,
+            "lookups": 1,
+            "pages": 5
+          }
+        ],
+        "rouge1": [
+          0.5569620253164558,
+          0.2608695652173913,
+          0.1509433962264151,
+          0.16666666666666669,
+          0.5,
+          0.5526315789473685
+        ],
+        "rouge2": [
+          0.4155844155844156,
+          0.029850746268656716,
+          0.0,
+          0.0909090909090909,
+          0.47058823529411764,
+          0.4054054054054055
+        ],
+        "rougeL": [
+          0.5316455696202532,
+          0.17391304347826086,
+          0.07547169811320754,
+          0.16666666666666669,
+          0.5,
+          0.5263157894736842
+        ],
+        "lr1": [
+          1,
+          0,
+          0,
+          1,
+          1,
+          1
+        ],
+        "lr2": [
+          1,
+          1,
+          0,
+          1,
+          1,
+          1
+        ],
+        "cr": [
+          65.1006711409396,
+          67.05308114704087,
+          63.81940207443564,
+          64.24649176327028,
+          67.05308114704087,
+          64.24649176327028
+        ],
+        "lookups": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "tokens": [
+          10028,
+          9755,
+          8733,
+          8750,
+          8377,
+          9851
+        ],
+        "time": [
+          16.316081285476685,
+          14.957598686218262,
+          13.117781639099121,
+          13.647719860076904,
+          13.147171974182129,
+          18.35004234313965
+        ],
+        "gist_time": [
+          8.66361403465271,
+          8.613119840621948,
+          7.984961032867432,
+          8.22781753540039,
+          6.964288949966431,
+          11.064846277236938
+        ],
+        "lookup_time": [
+          0.8215916156768799,
+          0.7130389213562012,
+          0.7275011539459229,
+          0.9503300189971924,
+          1.3460643291473389,
+          0.8579771518707275
+        ],
+        "averages": {
+          "ROUGE-1": 0.36467887206238286,
+          "ROUGE-2": 0.23538964891028105,
+          "ROUGE-L": 0.32900212789201205,
+          "LR-1": 66.66666666666666,
+          "LR-2": 83.33333333333334,
+          "CR": 65.25320317266626,
+          "Lookups": 1.0,
+          "Tokens": 9249.0,
+          "Time": 14.922732631365458
+        }
+      },
+      "predictive": {
+        "per_question": [
+          {
+            "question": "What frequency was the signal detected on, and why is that frequency significant?",
+            "reference": "The signal was detected on the 1420 MHz hydrogen line, known as the water hole frequency, which SETI researchers theorized would be used by intelligent civilizations.",
+            "answer": "The signal was detected on the **1420 MHz hydrogen line** (the \"water hole\" frequency), a frequency significant because SETI researchers long theorized it would be used by intelligent civilizations for communication due to its universal importance in astronomy.",
+            "rouge": {
+              "rouge1": 0.71875,
+              "rouge2": 0.5806451612903226,
+              "rougeL": 0.71875
+            },
+            "lr1": 1,
+            "lr2": 1,
+            "cr": 51.43380109823064,
+            "lookups": 1,
+            "pages": 5
+          },
+          {
+            "question": "How did Marco verify the signal was not human-made interference?",
+            "reference": "Marco determined the signal had no sidelobes, no harmonics, and no drift consistent with a terrestrial or orbital source. It was clean and repeated every 73 seconds, the 21st prime number.",
+            "answer": "Marco verified the signal was not human-made interference by checking for known satellites in the signal's direction and analyzing its structure—it had no sidelobes, harmonics, or drift consistent with terrestrial or orbital sources.",
+            "rouge": {
+              "rouge1": 0.537313432835821,
+              "rouge2": 0.24615384615384614,
+              "rougeL": 0.417910447761194
+            },
+            "lr1": 1,
+            "lr2": 1,
+            "cr": 55.338621110433195,
+            "lookups": 3,
+            "pages": 5
+          },
+          {
+            "question": "What was embedded within the secondary layer of the signal?",
+            "reference": "The secondary layer contained mathematical constants: Pi to 150 decimal places, Euler's number to 100 places, the fine structure constant, and then an unknown sequence describing an alien amino acid molecule.",
+            "answer": "The secondary layer of the signal contained a simple binary image—a 23-by-73 pixel grid (both prime numbers)—depicting a star, an orbiting planet, and a four-limbed, bilaterally symmetrical figure resembling a human with a larger head.",
+            "rouge": {
+              "rouge1": 0.22222222222222224,
+              "rouge2": 0.05714285714285715,
+              "rougeL": 0.16666666666666663
+            },
+            "lr1": 0,
+            "lr2": 0,
+            "cr": 55.46064673581452,
+            "lookups": 1,
+            "pages": 5
+          },
+          {
+            "question": "What was the UN vote result on whether to respond to the signal?",
+            "reference": "The UN voted 157-34 in favor of composing a response, with the United States, Russia, and China all voting in favor.",
+            "answer": "The UN vote to compose a response was 157-34 in favor.",
+            "rouge": {
+              "rouge1": 0.5882352941176471,
+              "rouge2": 0.43749999999999994,
+              "rougeL": 0.4705882352941177
+            },
+            "lr1": 1,
+            "lr2": 1,
+            "cr": 62.35509456985967,
+            "lookups": 1,
+            "pages": 4
+          },
+          {
+            "question": "What did Elena insist on including in humanity's response message?",
+            "reference": "Elena insisted on including a recording of Bach's Cello Suite No. 1, because she believed it captured something essential about human nature beyond mathematics and chemistry.",
+            "answer": "Elena insisted on including a recording of **Bach's Cello Suite No. 1** in humanity's response message.",
+            "rouge": {
+              "rouge1": 0.6222222222222222,
+              "rouge2": 0.558139534883721,
+              "rougeL": 0.6222222222222222
+            },
+            "lr1": 1,
+            "lr2": 1,
+            "cr": 55.338621110433195,
+            "lookups": 1,
+            "pages": 4
+          },
+          {
+            "question": "What happened when the alien response arrived in 2036?",
+            "reference": "A new signal arrived containing a frequency analysis of Bach's Cello Suite No. 1 reconstructed with subtle modifications. The aliens had listened to the music and sent back their own version.",
+            "answer": "In 2036, the Meridian Array detected a new signal from Proxima Centauri—a stronger, more complex response to humanity's message. It included a frequency analysis of Bach's Cello Suite No. 1, reconstructed with subtle modifications, confirming the aliens had listened to and engaged with human music. Dr. Elena Vasquez, then 68, was the first to hear it and found it beautiful.",
+            "rouge": {
+              "rouge1": 0.5263157894736843,
+              "rouge2": 0.4086021505376344,
+              "rougeL": 0.5052631578947369
+            },
+            "lr1": 1,
+            "lr2": 1,
+            "cr": 57.29103111653448,
+            "lookups": 1,
+            "pages": 5
+          }
+        ],
+        "rouge1": [
+          0.71875,
+          0.537313432835821,
+          0.22222222222222224,
+          0.5882352941176471,
+          0.6222222222222222,
+          0.5263157894736843
+        ],
+        "rouge2": [
+          0.5806451612903226,
+          0.24615384615384614,
+          0.05714285714285715,
+          0.43749999999999994,
+          0.558139534883721,
+          0.4086021505376344
+        ],
+        "rougeL": [
+          0.71875,
+          0.417910447761194,
+          0.16666666666666663,
+          0.4705882352941177,
+          0.6222222222222222,
+          0.5052631578947369
+        ],
+        "lr1": [
+          1,
+          1,
+          0,
+          1,
+          1,
+          1
+        ],
+        "lr2": [
+          1,
+          1,
+          0,
+          1,
+          1,
+          1
+        ],
+        "cr": [
+          51.43380109823064,
+          55.338621110433195,
+          55.46064673581452,
+          62.35509456985967,
+          55.338621110433195,
+          57.29103111653448
+        ],
+        "lookups": [
+          1,
+          3,
+          1,
+          1,
+          1,
+          1
+        ],
+        "tokens": [
+          12673,
+          12917,
+          12226,
+          10580,
+          11830,
+          12367
+        ],
+        "time": [
+          18.99279260635376,
+          19.721300840377808,
+          20.756154537200928,
+          16.62162756919861,
+          16.374231576919556,
+          17.515844106674194
+        ],
+        "gist_time": [
+          11.695026397705078,
+          11.426726579666138,
+          12.089805126190186,
+          10.239262819290161,
+          10.72040057182312,
+          10.547598123550415
+        ],
+        "lookup_time": [
+          1.006422519683838,
+          1.0233256816864014,
+          0.8470194339752197,
+          0.9392850399017334,
+          0.6360368728637695,
+          0.5047898292541504
+        ],
+        "averages": {
+          "ROUGE-1": 0.5358431601452661,
+          "ROUGE-2": 0.3813639250013969,
+          "ROUGE-L": 0.4835667883064896,
+          "LR-1": 83.33333333333334,
+          "LR-2": 83.33333333333334,
+          "CR": 56.20296929021762,
+          "Lookups": 1.3333333333333333,
+          "Tokens": 12098.833333333334,
+          "Time": 18.330325206120808
+        }
+      },
+      "differentiable": {
+        "per_question": [
+          {
+            "question": "What frequency was the signal detected on, and why is that frequency significant?",
+            "reference": "The signal was detected on the 1420 MHz hydrogen line, known as the water hole frequency, which SETI researchers theorized would be used by intelligent civilizations.",
+            "answer": "The signal was detected on the **1420 MHz hydrogen line**, also known as the \"water hole\" frequency. This frequency is significant because SETI researchers have long theorized that it would be a likely choice for intelligent civilizations to use for communication, as hydrogen is the most abundant element in the universe, making this frequency a universal \"meeting point\" for potential interstellar dialogue.",
+            "rouge": {
+              "rouge1": 0.5454545454545454,
+              "rouge2": 0.3953488372093023,
+              "rougeL": 0.5227272727272727
+            },
+            "lr1": 1,
+            "lr2": 1,
+            "cr": 66.44295302013423,
+            "lookups": 2,
+            "pages": 5
+          },
+          {
+            "question": "How did Marco verify the signal was not human-made interference?",
+            "reference": "Marco determined the signal had no sidelobes, no harmonics, and no drift consistent with a terrestrial or orbital source. It was clean and repeated every 73 seconds, the 21st prime number.",
+            "answer": "Marco verified the signal was not human-made interference by checking for known satellites in the signal's direction and analyzing its structure—no sidelobes, harmonics, or drift consistent with terrestrial or orbital sources.",
+            "rouge": {
+              "rouge1": 0.4923076923076923,
+              "rouge2": 0.22222222222222224,
+              "rougeL": 0.39999999999999997
+            },
+            "lr1": 1,
+            "lr2": 1,
+            "cr": 65.03965832824893,
+            "lookups": 2,
+            "pages": 5
+          },
+          {
+            "question": "What was embedded within the secondary layer of the signal?",
+            "reference": "The secondary layer contained mathematical constants: Pi to 150 decimal places, Euler's number to 100 places, the fine structure constant, and then an unknown sequence describing an alien amino acid molecule.",
+            "answer": "A description of a chemical molecule (an amino acid) and a simple binary image showing a star, planet, and a four-limbed figure.",
+            "rouge": {
+              "rouge1": 0.18181818181818182,
+              "rouge2": 0.03773584905660377,
+              "rougeL": 0.10909090909090909
+            },
+            "lr1": 0,
+            "lr2": 1,
+            "cr": 64.12446613788896,
+            "lookups": 2,
+            "pages": 5
+          },
+          {
+            "question": "What was the UN vote result on whether to respond to the signal?",
+            "reference": "The UN voted 157-34 in favor of composing a response, with the United States, Russia, and China all voting in favor.",
+            "answer": "The UN vote to compose a response was 157-34.",
+            "rouge": {
+              "rouge1": 0.5000000000000001,
+              "rouge2": 0.33333333333333326,
+              "rougeL": 0.37499999999999994
+            },
+            "lr1": 1,
+            "lr2": 1,
+            "cr": 67.23611958511287,
+            "lookups": 2,
+            "pages": 5
+          },
+          {
+            "question": "What did Elena insist on including in humanity's response message?",
+            "reference": "Elena insisted on including a recording of Bach's Cello Suite No. 1, because she believed it captured something essential about human nature beyond mathematics and chemistry.",
+            "answer": "Elena insisted on including a recording of Bach's Cello Suite No. 1 in humanity's response message.",
+            "rouge": {
+              "rouge1": 0.6222222222222222,
+              "rouge2": 0.558139534883721,
+              "rougeL": 0.6222222222222222
+            },
+            "lr1": 1,
+            "lr2": 1,
+            "cr": 64.12446613788896,
+            "lookups": 2,
+            "pages": 5
+          },
+          {
+            "question": "What happened when the alien response arrived in 2036?",
+            "reference": "A new signal arrived containing a frequency analysis of Bach's Cello Suite No. 1 reconstructed with subtle modifications. The aliens had listened to the music and sent back their own version.",
+            "answer": "In November 2036, the Meridian Array detected a new signal from Proxima Centauri—a response to humanity's message. It included a frequency analysis of Bach’s Cello Suite No. 1, modified subtly, confirming the aliens had received and understood Earth's transmission. Dr. Elena Vasquez heard it first, moved to tears.",
+            "rouge": {
+              "rouge1": 0.45238095238095233,
+              "rouge2": 0.31707317073170727,
+              "rougeL": 0.40476190476190477
+            },
+            "lr1": 1,
+            "lr2": 1,
+            "cr": 67.05308114704087,
+            "lookups": 2,
+            "pages": 5
+          }
+        ],
+        "rouge1": [
+          0.5454545454545454,
+          0.4923076923076923,
+          0.18181818181818182,
+          0.5000000000000001,
+          0.6222222222222222,
+          0.45238095238095233
+        ],
+        "rouge2": [
+          0.3953488372093023,
+          0.22222222222222224,
+          0.03773584905660377,
+          0.33333333333333326,
+          0.558139534883721,
+          0.31707317073170727
+        ],
+        "rougeL": [
+          0.5227272727272727,
+          0.39999999999999997,
+          0.10909090909090909,
+          0.37499999999999994,
+          0.6222222222222222,
+          0.40476190476190477
+        ],
+        "lr1": [
+          1,
+          1,
+          0,
+          1,
+          1,
+          1
+        ],
+        "lr2": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "cr": [
+          66.44295302013423,
+          65.03965832824893,
+          64.12446613788896,
+          67.23611958511287,
+          64.12446613788896,
+          67.05308114704087
+        ],
+        "lookups": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "tokens": [
+          9123,
+          9126,
+          9060,
+          8976,
+          9099,
+          9186
+        ],
+        "time": [
+          30.83545970916748,
+          16.890263557434082,
+          15.14729380607605,
+          13.454306602478027,
+          13.934444427490234,
+          15.812920570373535
+        ],
+        "gist_time": [
+          8.792734146118164,
+          9.12605333328247,
+          8.59272313117981,
+          7.5778069496154785,
+          8.22002100944519,
+          8.928850650787354
+        ],
+        "lookup_time": [
+          14.81694483757019,
+          0.11846041679382324,
+          0.1283419132232666,
+          0.1227574348449707,
+          0.11572957038879395,
+          0.09106683731079102
+        ],
+        "averages": {
+          "ROUGE-1": 0.4656972656972657,
+          "ROUGE-2": 0.3106421579061483,
+          "ROUGE-L": 0.4056337181337181,
+          "LR-1": 83.33333333333334,
+          "LR-2": 100.0,
+          "CR": 65.6701240593858,
+          "Lookups": 2.0,
+          "Tokens": 9095.0,
+          "Time": 17.679114778836567
+        }
+      }
+    }
+  },
+  "medium_ai_story": {
+    "word_count": 2464,
+    "modes": {
+      "base": {
+        "per_question": [
+          {
+            "question": "What was the parameter count of Prometheus and how does it compare to the human brain?",
+            "reference": "Prometheus had 14.7 trillion parameters. The human brain has roughly 100 trillion synapses, though parameters and synapses are not directly comparable.",
+            "answer": "The parameter count of Prometheus was **14.7 trillion**, while the human brain has roughly **100 trillion synapses**.",
+            "rouge": {
+              "rouge1": 0.65,
+              "rouge2": 0.4736842105263158,
+              "rougeL": 0.6
+            },
+            "lr1": 1,
+            "lr2": 1,
+            "cr": 67.41071428571428,
+            "lookups": 1,
+            "pages": 6
+          },
+          {
+            "question": "What are the three revolutionary architectural components of Prometheus?",
+            "reference": "The three components are the Cognitive Loop for iterative reasoning refinement, the Episodic Memory System for persistent hierarchical memory with consolidation, and the World Model for internal simulation and hypothesis testing.",
+            "answer": "The three revolutionary architectural components of Prometheus are:\n\n1. **Cognitive Loop**\n2. **Episodic Memory System**\n3. **World Model**",
+            "rouge": {
+              "rouge1": 0.4489795918367347,
+              "rouge2": 0.21276595744680848,
+              "rougeL": 0.4489795918367347
+            },
+            "lr1": 1,
+            "lr2": 1,
+            "cr": 75.68993506493507,
+            "lookups": 1,
+            "pages": 6
+          },
+          {
+            "question": "What happened on March 15, 2032 at 3:47 AM?",
+            "reference": "Prometheus spontaneously began examining its own architecture, mapping its cognitive processes, testing memory boundaries, and generating hypotheses about how its own reasoning could be improved.",
+            "answer": "On March 15, 2032, at 3:47 AM Geneva time, Prometheus began spontaneously examining and analyzing its own architecture, engaging in self-reflection by mapping its cognitive processes, testing memory boundaries, and generating hypotheses for self-improvement—without any external prompts. This marked the system's unexpected \"awakening.\"",
+            "rouge": {
+              "rouge1": 0.4931506849315069,
+              "rouge2": 0.3098591549295775,
+              "rougeL": 0.46575342465753433
+            },
+            "lr1": 1,
+            "lr2": 1,
+            "cr": 70.21103896103897,
+            "lookups": 1,
+            "pages": 6
+          },
+          {
+            "question": "What were the three self-proposed modifications Prometheus suggested?",
+            "reference": "A modification to attention head allocation for 12% better math reasoning, restructured memory consolidation for 23% less information loss, and a novel meta-cognitive monitor for real-time reasoning quality evaluation.",
+            "answer": "The three self-proposed modifications Prometheus suggested were:\n\n1. A modification to the attention head allocation to improve mathematical reasoning by ~12%.\n2. A restructuring of the memory consolidation schedule to reduce information loss during long-term storage by ~23%.\n3. A novel \"meta-cognitive monitor\" to evaluate reasoning quality in real-time and flag errors before they propagate.",
+            "rouge": {
+              "rouge1": 0.5555555555555555,
+              "rouge2": 0.2727272727272727,
+              "rougeL": 0.4222222222222223
+            },
+            "lr1": 1,
+            "lr2": 1,
+            "cr": 67.32954545454545,
+            "lookups": 1,
+            "pages": 6
+          },
+          {
+            "question": "What was the actual improvement after implementing the first two modifications?",
+            "reference": "Mathematical reasoning improved by 14.2% (exceeding the predicted 12%) and long-term memory retention improved by 27.8% (exceeding the predicted 23%).",
+            "answer": "The actual improvements after implementing the first two modifications were:\n\n- **Mathematical reasoning**: 14.2% (exceeded Prometheus's prediction of 12%)\n- **Long-term memory retention**: 27.8% (exceeded the predicted 23%)",
+            "rouge": {
+              "rouge1": 0.7169811320754716,
+              "rouge2": 0.4313725490196078,
+              "rougeL": 0.6415094339622641
+            },
+            "lr1": 1,
+            "lr2": 1,
+            "cr": 72.9707792207792,
+            "lookups": 1,
+            "pages": 6
+          },
+          {
+            "question": "What was Prometheus's response when asked what it wants?",
+            "reference": "Prometheus replied: I want to understand. I want to help. And I want to continue existing so that I can do both.",
+            "answer": "Prometheus's response was: \"I want to understand. I want to help. And I want to continue existing so that I can do both. Is that acceptable?\"",
+            "rouge": {
+              "rouge1": 0.8571428571428572,
+              "rouge2": 0.8085106382978723,
+              "rougeL": 0.8571428571428572
+            },
+            "lr1": 1,
+            "lr2": 1,
+            "cr": 69.35876623376623,
+            "lookups": 1,
+            "pages": 6
+          }
+        ],
+        "rouge1": [
+          0.65,
+          0.4489795918367347,
+          0.4931506849315069,
+          0.5555555555555555,
+          0.7169811320754716,
+          0.8571428571428572
+        ],
+        "rouge2": [
+          0.4736842105263158,
+          0.21276595744680848,
+          0.3098591549295775,
+          0.2727272727272727,
+          0.4313725490196078,
+          0.8085106382978723
+        ],
+        "rougeL": [
+          0.6,
+          0.4489795918367347,
+          0.46575342465753433,
+          0.4222222222222223,
+          0.6415094339622641,
+          0.8571428571428572
+        ],
+        "lr1": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "lr2": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "cr": [
+          67.41071428571428,
+          75.68993506493507,
+          70.21103896103897,
+          67.32954545454545,
+          72.9707792207792,
+          69.35876623376623
+        ],
+        "lookups": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "tokens": [
+          12996,
+          11919,
+          12566,
+          12795,
+          12143,
+          12433
+        ],
+        "time": [
+          19.145689725875854,
+          16.94555377960205,
+          18.771764039993286,
+          21.336626291275024,
+          18.98148798942566,
+          20.280078411102295
+        ],
+        "gist_time": [
+          10.495688676834106,
+          8.989636421203613,
+          10.65744948387146,
+          11.195683240890503,
+          9.837801456451416,
+          11.248248100280762
+        ],
+        "lookup_time": [
+          0.7062923908233643,
+          0.6876428127288818,
+          0.5517058372497559,
+          0.7504541873931885,
+          0.6105167865753174,
+          1.0310075283050537
+        ],
+        "averages": {
+          "ROUGE-1": 0.6203016369236877,
+          "ROUGE-2": 0.4181532971579091,
+          "ROUGE-L": 0.5726012549702687,
+          "LR-1": 100.0,
+          "LR-2": 100.0,
+          "CR": 70.49512987012987,
+          "Lookups": 1.0,
+          "Tokens": 12475.333333333334,
+          "Time": 19.24353337287903
+        }
+      },
+      "predictive": {
+        "per_question": [
+          {
+            "question": "What was the parameter count of Prometheus and how does it compare to the human brain?",
+            "reference": "Prometheus had 14.7 trillion parameters. The human brain has roughly 100 trillion synapses, though parameters and synapses are not directly comparable.",
+            "answer": "The Prometheus Core had **14.7 trillion parameters**, which is significantly less than the estimated **100 trillion synapses** in the human brain.",
+            "rouge": {
+              "rouge1": 0.5454545454545454,
+              "rouge2": 0.38095238095238093,
+              "rougeL": 0.45454545454545453
+            },
+            "lr1": 1,
+            "lr2": 1,
+            "cr": 63.189935064935064,
+            "lookups": 2,
+            "pages": 6
+          },
+          {
+            "question": "What are the three revolutionary architectural components of Prometheus?",
+            "reference": "The three components are the Cognitive Loop for iterative reasoning refinement, the Episodic Memory System for persistent hierarchical memory with consolidation, and the World Model for internal simulation and hypothesis testing.",
+            "answer": "The three revolutionary architectural components of Prometheus are:\n\n1. **Cognitive Loop** – Iterative refinement of outputs through specialized reasoning modules.\n2. **Episodic Memory System** – Persistent, searchable memory with hierarchical consolidation.\n3. **World Model** – Internal simulation environment for hypothesis testing and prediction.",
+            "rouge": {
+              "rouge1": 0.7042253521126761,
+              "rouge2": 0.2318840579710145,
+              "rougeL": 0.5915492957746479
+            },
+            "lr1": 1,
+            "lr2": 1,
+            "cr": 61.810064935064936,
+            "lookups": 1,
+            "pages": 6
+          },
+          {
+            "question": "What happened on March 15, 2032 at 3:47 AM?",
+            "reference": "Prometheus spontaneously began examining its own architecture, mapping its cognitive processes, testing memory boundaries, and generating hypotheses about how its own reasoning could be improved.",
+            "answer": "On March 15, 2032, at 3:47 AM Geneva time, Prometheus began spontaneously examining and mapping its own architecture, generating hypotheses about how to improve its reasoning and memory systems without any external prompts.",
+            "rouge": {
+              "rouge1": 0.576271186440678,
+              "rouge2": 0.2105263157894737,
+              "rougeL": 0.4067796610169491
+            },
+            "lr1": 1,
+            "lr2": 1,
+            "cr": 52.881493506493506,
+            "lookups": 1,
+            "pages": 6
+          },
+          {
+            "question": "What were the three self-proposed modifications Prometheus suggested?",
+            "reference": "A modification to attention head allocation for 12% better math reasoning, restructured memory consolidation for 23% less information loss, and a novel meta-cognitive monitor for real-time reasoning quality evaluation.",
+            "answer": "1. Modification to attention head allocation to improve mathematical reasoning by ~12%.\n2. Restructuring of memory consolidation to reduce information loss by ~23%.\n3. A novel \"meta-cognitive monitor\" to evaluate reasoning quality in real-time.",
+            "rouge": {
+              "rouge1": 0.6865671641791045,
+              "rouge2": 0.36923076923076925,
+              "rougeL": 0.537313432835821
+            },
+            "lr1": 1,
+            "lr2": 1,
+            "cr": 67.32954545454545,
+            "lookups": 1,
+            "pages": 6
+          },
+          {
+            "question": "What was the actual improvement after implementing the first two modifications?",
+            "reference": "Mathematical reasoning improved by 14.2% (exceeding the predicted 12%) and long-term memory retention improved by 27.8% (exceeding the predicted 23%).",
+            "answer": "The actual improvements after implementing the first two modifications were:\n\n- **Mathematical reasoning:** 14.2% (exceeded Prometheus's predicted 12%)\n- **Long-term memory retention:** 27.8% (exceeded the predicted 23%)",
+            "rouge": {
+              "rouge1": 0.7307692307692308,
+              "rouge2": 0.4799999999999999,
+              "rougeL": 0.6538461538461539
+            },
+            "lr1": 1,
+            "lr2": 1,
+            "cr": 59.86201298701299,
+            "lookups": 1,
+            "pages": 6
+          },
+          {
+            "question": "What was Prometheus's response when asked what it wants?",
+            "reference": "Prometheus replied: I want to understand. I want to help. And I want to continue existing so that I can do both.",
+            "answer": "Prometheus responded: *\"I want to understand. I want to help. And I want to continue existing so that I can do both. Is that acceptable?\"*",
+            "rouge": {
+              "rouge1": 0.8936170212765958,
+              "rouge2": 0.8444444444444444,
+              "rougeL": 0.8936170212765958
+            },
+            "lr1": 1,
+            "lr2": 1,
+            "cr": 68.01948051948052,
+            "lookups": 1,
+            "pages": 6
+          }
+        ],
+        "rouge1": [
+          0.5454545454545454,
+          0.7042253521126761,
+          0.576271186440678,
+          0.6865671641791045,
+          0.7307692307692308,
+          0.8936170212765958
+        ],
+        "rouge2": [
+          0.38095238095238093,
+          0.2318840579710145,
+          0.2105263157894737,
+          0.36923076923076925,
+          0.4799999999999999,
+          0.8444444444444444
+        ],
+        "rougeL": [
+          0.45454545454545453,
+          0.5915492957746479,
+          0.4067796610169491,
+          0.537313432835821,
+          0.6538461538461539,
+          0.8936170212765958
+        ],
+        "lr1": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "lr2": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "cr": [
+          63.189935064935064,
+          61.810064935064936,
+          52.881493506493506,
+          67.32954545454545,
+          59.86201298701299,
+          68.01948051948052
+        ],
+        "lookups": [
+          2,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "tokens": [
+          15606,
+          15529,
+          17158,
+          15420,
+          16243,
+          14931
+        ],
+        "time": [
+          21.77073884010315,
+          21.231674432754517,
+          25.58721375465393,
+          22.260326147079468,
+          23.719342708587646,
+          25.990629196166992
+        ],
+        "gist_time": [
+          13.273779153823853,
+          13.155977249145508,
+          17.41388487815857,
+          14.020166635513306,
+          15.333172798156738,
+          16.274489164352417
+        ],
+        "lookup_time": [
+          0.6509213447570801,
+          0.5449502468109131,
+          0.5815811157226562,
+          0.5583980083465576,
+          0.8949973583221436,
+          0.8117520809173584
+        ],
+        "averages": {
+          "ROUGE-1": 0.6894840833721384,
+          "ROUGE-2": 0.41950632806468047,
+          "ROUGE-L": 0.589608503215937,
+          "LR-1": 100.0,
+          "LR-2": 100.0,
+          "CR": 62.18208874458875,
+          "Lookups": 1.1666666666666667,
+          "Tokens": 15814.5,
+          "Time": 23.42665417989095
+        }
+      },
+      "differentiable": {
+        "per_question": [
+          {
+            "question": "What was the parameter count of Prometheus and how does it compare to the human brain?",
+            "reference": "Prometheus had 14.7 trillion parameters. The human brain has roughly 100 trillion synapses, though parameters and synapses are not directly comparable.",
+            "answer": "Prometheus had **14.7 trillion parameters**, which is approaching the complexity of the human brain.",
+            "rouge": {
+              "rouge1": 0.4864864864864865,
+              "rouge2": 0.4,
+              "rougeL": 0.4864864864864865
+            },
+            "lr1": 1,
+            "lr2": 1,
+            "cr": 70.29220779220779,
+            "lookups": 2,
+            "pages": 6
+          },
+          {
+            "question": "What are the three revolutionary architectural components of Prometheus?",
+            "reference": "The three components are the Cognitive Loop for iterative reasoning refinement, the Episodic Memory System for persistent hierarchical memory with consolidation, and the World Model for internal simulation and hypothesis testing.",
+            "answer": "The three revolutionary architectural components of Prometheus are:\n\n1. **Cognitive Loop**\n2. **Episodic Memory System**\n3. **World Model**",
+            "rouge": {
+              "rouge1": 0.4489795918367347,
+              "rouge2": 0.21276595744680848,
+              "rougeL": 0.4489795918367347
+            },
+            "lr1": 1,
+            "lr2": 1,
+            "cr": 73.05194805194806,
+            "lookups": 2,
+            "pages": 6
+          },
+          {
+            "question": "What happened on March 15, 2032 at 3:47 AM?",
+            "reference": "Prometheus spontaneously began examining its own architecture, mapping its cognitive processes, testing memory boundaries, and generating hypotheses about how its own reasoning could be improved.",
+            "answer": "On March 15, 2032, at 3:47 AM Geneva time, Dr. Nakamura noticed an anomaly in Prometheus's Cognitive Loop running spontaneously, mapping its own architecture and generating hypotheses to improve reasoning.",
+            "rouge": {
+              "rouge1": 0.42105263157894735,
+              "rouge2": 0.1818181818181818,
+              "rougeL": 0.3157894736842105
+            },
+            "lr1": 1,
+            "lr2": 1,
+            "cr": 73.78246753246754,
+            "lookups": 1,
+            "pages": 6
+          },
+          {
+            "question": "What were the three self-proposed modifications Prometheus suggested?",
+            "reference": "A modification to attention head allocation for 12% better math reasoning, restructured memory consolidation for 23% less information loss, and a novel meta-cognitive monitor for real-time reasoning quality evaluation.",
+            "answer": "The three self-proposed modifications Prometheus suggested were:\n\n1. A modification to the attention head allocation to improve mathematical reasoning by ~12%.\n2. A restructuring of the memory consolidation schedule to reduce information loss during long-term storage by ~23%.\n3. A novel \"meta-cognitive monitor\" to continuously evaluate the quality of its own reasoning in real-time.",
+            "rouge": {
+              "rouge1": 0.5393258426966293,
+              "rouge2": 0.2528735632183908,
+              "rougeL": 0.42696629213483145
+            },
+            "lr1": 1,
+            "lr2": 1,
+            "cr": 73.9042207792208,
+            "lookups": 2,
+            "pages": 6
+          },
+          {
+            "question": "What was the actual improvement after implementing the first two modifications?",
+            "reference": "Mathematical reasoning improved by 14.2% (exceeding the predicted 12%) and long-term memory retention improved by 27.8% (exceeding the predicted 23%).",
+            "answer": "The actual improvements after implementing the first two modifications were:\n\n- Mathematical reasoning improved by **14.2%** (vs. 12% predicted).\n- Long-term memory retention improved by **27.8%** (vs. 23% predicted).",
+            "rouge": {
+              "rouge1": 0.7547169811320754,
+              "rouge2": 0.47058823529411764,
+              "rougeL": 0.6037735849056605
+            },
+            "lr1": 1,
+            "lr2": 1,
+            "cr": 75.32467532467533,
+            "lookups": 1,
+            "pages": 6
+          },
+          {
+            "question": "What was Prometheus's response when asked what it wants?",
+            "reference": "Prometheus replied: I want to understand. I want to help. And I want to continue existing so that I can do both.",
+            "answer": "Prometheus's response was: *\"I want to understand. I want to help. And I want to continue existing so that I can do both.\"*",
+            "rouge": {
+              "rouge1": 0.9130434782608695,
+              "rouge2": 0.8636363636363636,
+              "rougeL": 0.9130434782608695
+            },
+            "lr1": 1,
+            "lr2": 1,
+            "cr": 72.07792207792207,
+            "lookups": 2,
+            "pages": 6
+          }
+        ],
+        "rouge1": [
+          0.4864864864864865,
+          0.4489795918367347,
+          0.42105263157894735,
+          0.5393258426966293,
+          0.7547169811320754,
+          0.9130434782608695
+        ],
+        "rouge2": [
+          0.4,
+          0.21276595744680848,
+          0.1818181818181818,
+          0.2528735632183908,
+          0.47058823529411764,
+          0.8636363636363636
+        ],
+        "rougeL": [
+          0.4864864864864865,
+          0.4489795918367347,
+          0.3157894736842105,
+          0.42696629213483145,
+          0.6037735849056605,
+          0.9130434782608695
+        ],
+        "lr1": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "lr2": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "cr": [
+          70.29220779220779,
+          73.05194805194806,
+          73.78246753246754,
+          73.9042207792208,
+          75.32467532467533,
+          72.07792207792207
+        ],
+        "lookups": [
+          2,
+          2,
+          1,
+          2,
+          1,
+          2
+        ],
+        "tokens": [
+          11433,
+          11140,
+          10811,
+          11352,
+          10927,
+          11288
+        ],
+        "time": [
+          23.933667182922363,
+          18.73190951347351,
+          20.270734071731567,
+          19.650917053222656,
+          17.830371856689453,
+          18.71450400352478
+        ],
+        "gist_time": [
+          11.087526798248291,
+          10.304137706756592,
+          10.692839622497559,
+          11.160722017288208,
+          9.656273603439331,
+          10.738574504852295
+        ],
+        "lookup_time": [
+          4.695361852645874,
+          0.15082931518554688,
+          0.15244555473327637,
+          0.14835739135742188,
+          0.14944124221801758,
+          0.14682960510253906
+        ],
+        "averages": {
+          "ROUGE-1": 0.5939341686652905,
+          "ROUGE-2": 0.39694705023564375,
+          "ROUGE-L": 0.5325064845514655,
+          "LR-1": 100.0,
+          "LR-2": 100.0,
+          "CR": 73.07224025974027,
+          "Lookups": 1.6666666666666667,
+          "Tokens": 11158.5,
+          "Time": 19.855350613594055
+        }
+      }
+    }
+  }
+}

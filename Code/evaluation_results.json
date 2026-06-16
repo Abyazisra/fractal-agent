@@ -1,0 +1,227 @@
+{
+  "base": {
+    "averages": {
+      "ROUGE-1": 0.38885513415892675,
+      "ROUGE-2": 0.2698399148354959,
+      "ROUGE-L": 0.3640366643733517,
+      "LR-1": 66.66666666666666,
+      "LR-2": 100.0,
+      "CR": 62.924547488305876,
+      "# LU": 1.0,
+      "Tokens": 9726.0,
+      "Time (s)": 34.74907275040945
+    },
+    "per_question": {
+      "Q1": {
+        "question": "What frequency was the signal detected on, and why is that frequency significant?",
+        "answer": "The signal was detected on the **1420 MHz hydrogen line**, also known as the \"water hole\" frequency. This frequency is significant because SETI researchers have long theorized that it would be a likely choice for intelligent civilizations to use for communication, as hydrogen is the most abundant element in the universe and this frequency falls within a relatively quiet part of the radio spectrum.",
+        "reference": "The signal was detected on the 1420 MHz hydrogen line, known as the water hole frequency, which SETI researchers theorized would be used by intelligent civilizations.",
+        "rouge1": 0.5333333333333333,
+        "rouge2": 0.3863636363636363,
+        "rougeL": 0.5111111111111112,
+        "lr1": 1,
+        "lr2": 1
+      },
+      "Q2": {
+        "question": "How did Marco verify the signal was not human-made interference?",
+        "answer": "Marco verified the signal was not human-made interference by checking that no satellites were in the direction of Proxima Centauri and by confirming the signal's structure and origin with three independent verification facilities (Allen Telescope Array, Square Kilometre Array, and FAST telescope).",
+        "reference": "Marco determined the signal had no sidelobes, no harmonics, and no drift consistent with a terrestrial or orbital source. It was clean and repeated every 73 seconds, the 21st prime number.",
+        "rouge1": 0.24000000000000005,
+        "rouge2": 0.0273972602739726,
+        "rougeL": 0.18666666666666665,
+        "lr1": 0,
+        "lr2": 1
+      },
+      "Q3": {
+        "question": "What was embedded within the secondary layer of the signal?",
+        "answer": "A simple binary image—a 23-by-73 pixel grid showing a star, an orbiting planet, and a four-limbed figure standing on its surface.",
+        "reference": "The secondary layer contained mathematical constants: Pi to 150 decimal places, Euler's number to 100 places, the fine structure constant, and then an unknown sequence that turned out to be a description of an alien amino acid molecule.",
+        "rouge1": 0.09375000000000001,
+        "rouge2": 0.0,
+        "rougeL": 0.0625,
+        "lr1": 0,
+        "lr2": 1
+      },
+      "Q4": {
+        "question": "What was the UN vote result on whether to respond to the signal?",
+        "answer": "157-34",
+        "reference": "The UN voted 157-34 in favor of composing a response, with the United States, Russia, and China all voting in favor.",
+        "rouge1": 0.16666666666666669,
+        "rouge2": 0.0909090909090909,
+        "rougeL": 0.16666666666666669,
+        "lr1": 1,
+        "lr2": 1
+      },
+      "Q5": {
+        "question": "What did Elena insist on including in humanity's response message, and why?",
+        "answer": "Elena insisted on including a recording of Bach's Cello Suite No. 1 in humanity's response message because she believed it captured something essential about human nature—something beyond mathematics and chemistry—and would convey beauty to the alien civilization.",
+        "reference": "Elena insisted on including a recording of Bach's Cello Suite No. 1, because she believed it captured something essential about human nature beyond mathematics and chemistry.",
+        "rouge1": 0.7941176470588235,
+        "rouge2": 0.7272727272727274,
+        "rougeL": 0.7941176470588235,
+        "lr1": 1,
+        "lr2": 1
+      },
+      "Q6": {
+        "question": "What happened in the epilogue when the alien response arrived?",
+        "answer": "In the epilogue, the Meridian Array detected a new signal from Proxima Centauri—a stronger, more complex response to humanity's message. It included a frequency analysis of Bach's Cello Suite No. 1, which the aliens had listened to and modified, sending back their own interpretation of the music. Dr. Elena Vasquez heard it and found it beautiful.",
+        "reference": "On November 14, 2036, a new signal arrived containing a frequency analysis of Bach's Cello Suite No. 1 reconstructed with subtle modifications. The aliens had listened to the music and sent back their own version.",
+        "rouge1": 0.5052631578947367,
+        "rouge2": 0.38709677419354843,
+        "rougeL": 0.4631578947368421,
+        "lr1": 1,
+        "lr2": 1
+      }
+    }
+  },
+  "predictive": {
+    "averages": {
+      "ROUGE-1": 0.4956800554151249,
+      "ROUGE-2": 0.31992595672663077,
+      "ROUGE-L": 0.4307512659496415,
+      "LR-1": 66.66666666666666,
+      "LR-2": 83.33333333333334,
+      "CR": 54.240390482001224,
+      "# LU": 1.0,
+      "Tokens": 14065.333333333334,
+      "Time (s)": 59.161595702171326
+    },
+    "per_question": {
+      "Q1": {
+        "question": "What frequency was the signal detected on, and why is that frequency significant?",
+        "answer": "The signal was detected on the **1420 MHz hydrogen line**, also known as the \"water hole\" frequency. This frequency is significant because SETI researchers have long theorized that it would be a likely choice for intelligent civilizations to use for communication, as hydrogen is the most abundant element in the universe and this frequency falls within a relatively quiet part of the radio spectrum.",
+        "reference": "The signal was detected on the 1420 MHz hydrogen line, known as the water hole frequency, which SETI researchers theorized would be used by intelligent civilizations.",
+        "rouge1": 0.5333333333333333,
+        "rouge2": 0.3863636363636363,
+        "rougeL": 0.5111111111111112,
+        "lr1": 1,
+        "lr2": 1
+      },
+      "Q2": {
+        "question": "How did Marco verify the signal was not human-made interference?",
+        "answer": "Marco verified the signal was not human-made interference by having three independent verification facilities (Allen Telescope Array, Square Kilometre Array, and FAST telescope) confirm the signal's presence at the same coordinates with the same structure, including the 73-second period and additional sub-harmonics.",
+        "reference": "Marco determined the signal had no sidelobes, no harmonics, and no drift consistent with a terrestrial or orbital source. It was clean and repeated every 73 seconds, the 21st prime number.",
+        "rouge1": 0.2857142857142857,
+        "rouge2": 0.053333333333333344,
+        "rougeL": 0.1818181818181818,
+        "lr1": 0,
+        "lr2": 1
+      },
+      "Q3": {
+        "question": "What was embedded within the secondary layer of the signal?",
+        "answer": "A simple binary image (1,679 bits) arranged into a 23-by-73 pixel grid showing a star, an orbiting planet, and a four-limbed figure standing on the planet's surface.",
+        "reference": "The secondary layer contained mathematical constants: Pi to 150 decimal places, Euler's number to 100 places, the fine structure constant, and then an unknown sequence that turned out to be a description of an alien amino acid molecule.",
+        "rouge1": 0.14084507042253522,
+        "rouge2": 0.0,
+        "rougeL": 0.056338028169014086,
+        "lr1": 0,
+        "lr2": 0
+      },
+      "Q4": {
+        "question": "What was the UN vote result on whether to respond to the signal?",
+        "answer": "The UN vote to compose a response passed with 157 votes in favor and 34 against.",
+        "reference": "The UN voted 157-34 in favor of composing a response, with the United States, Russia, and China all voting in favor.",
+        "rouge1": 0.6842105263157896,
+        "rouge2": 0.3333333333333333,
+        "rougeL": 0.5263157894736842,
+        "lr1": 1,
+        "lr2": 1
+      },
+      "Q5": {
+        "question": "What did Elena insist on including in humanity's response message, and why?",
+        "answer": "Elena insisted on including a recording of Bach's Cello Suite No. 1 in humanity's response message because she believed it captured something essential about human nature, something beyond mathematics and chemistry, and she hoped the aliens would understand its beauty.",
+        "reference": "Elena insisted on including a recording of Bach's Cello Suite No. 1, because she believed it captured something essential about human nature beyond mathematics and chemistry.",
+        "rouge1": 0.782608695652174,
+        "rouge2": 0.7164179104477613,
+        "rougeL": 0.782608695652174,
+        "lr1": 1,
+        "lr2": 1
+      },
+      "Q6": {
+        "question": "What happened in the epilogue when the alien response arrived?",
+        "answer": "In the epilogue, the Meridian Array detected a new signal from Proxima Centauri—a stronger, more complex response to humanity's message. It included a frequency analysis of Bach's Cello Suite No. 1, reconstructed with subtle modifications, showing the aliens had listened to and interpreted the music. Dr. Elena Vasquez, hearing the alien's version, found it beautiful.",
+        "reference": "On November 14, 2036, a new signal arrived containing a frequency analysis of Bach's Cello Suite No. 1 reconstructed with subtle modifications. The aliens had listened to the music and sent back their own version.",
+        "rouge1": 0.5473684210526315,
+        "rouge2": 0.43010752688172044,
+        "rougeL": 0.5263157894736842,
+        "lr1": 1,
+        "lr2": 1
+      }
+    }
+  },
+  "differentiable": {
+    "averages": {
+      "ROUGE-1": 0.5441213977279551,
+      "ROUGE-2": 0.39068954429123925,
+      "ROUGE-L": 0.4950805478674331,
+      "LR-1": 83.33333333333334,
+      "LR-2": 100.0,
+      "CR": 63.21944274964409,
+      "# LU": 3.0,
+      "Tokens": 9386.333333333334,
+      "Time (s)": 229.93596307436624
+    },
+    "per_question": {
+      "Q1": {
+        "question": "What frequency was the signal detected on, and why is that frequency significant?",
+        "answer": "The signal was detected on the **1420 MHz hydrogen line**, which is significant because it is a natural frequency of hydrogen, the most abundant element in the universe. Scientists often use this frequency for SETI (Search for Extraterrestrial Intelligence) because it is a universal \"watering hole\" frequency that any intelligent civilization would likely monitor.",
+        "reference": "The signal was detected on the 1420 MHz hydrogen line, known as the water hole frequency, which SETI researchers theorized would be used by intelligent civilizations.",
+        "rouge1": 0.5,
+        "rouge2": 0.3076923076923077,
+        "rougeL": 0.4,
+        "lr1": 1,
+        "lr2": 1
+      },
+      "Q2": {
+        "question": "How did Marco verify the signal was not human-made interference?",
+        "answer": "Marco verified the signal was not human-made interference by checking for known satellites in the signal's direction and analyzing its structure—no sidelobes, harmonics, or drift consistent with terrestrial or orbital sources.",
+        "reference": "Marco determined the signal had no sidelobes, no harmonics, and no drift consistent with a terrestrial or orbital source. It was clean and repeated every 73 seconds, the 21st prime number.",
+        "rouge1": 0.4923076923076923,
+        "rouge2": 0.22222222222222224,
+        "rougeL": 0.39999999999999997,
+        "lr1": 1,
+        "lr2": 1
+      },
+      "Q3": {
+        "question": "What was embedded within the secondary layer of the signal?",
+        "answer": "The secondary layer of the signal contained mathematical constants—Pi to 150 places, Euler’s number to 100, and an unknown sequence.",
+        "reference": "The secondary layer contained mathematical constants: Pi to 150 decimal places, Euler's number to 100 places, the fine structure constant, and then an unknown sequence that turned out to be a description of an alien amino acid molecule.",
+        "rouge1": 0.6885245901639344,
+        "rouge2": 0.4745762711864407,
+        "rougeL": 0.6229508196721312,
+        "lr1": 0,
+        "lr2": 1
+      },
+      "Q4": {
+        "question": "What was the UN vote result on whether to respond to the signal?",
+        "answer": "The UN voted 157-34 to craft humanity’s first message to aliens.",
+        "reference": "The UN voted 157-34 in favor of composing a response, with the United States, Russia, and China all voting in favor.",
+        "rouge1": 0.2857142857142857,
+        "rouge2": 0.24242424242424246,
+        "rougeL": 0.2857142857142857,
+        "lr1": 1,
+        "lr2": 1
+      },
+      "Q5": {
+        "question": "What did Elena insist on including in humanity's response message, and why?",
+        "answer": "Elena insisted on including **Bach’s *Cello Suite No. 1*** in humanity's response message because she believed it captured something **uniquely human**.",
+        "reference": "Elena insisted on including a recording of Bach's Cello Suite No. 1, because she believed it captured something essential about human nature beyond mathematics and chemistry.",
+        "rouge1": 0.68,
+        "rouge2": 0.5416666666666667,
+        "rougeL": 0.68,
+        "lr1": 1,
+        "lr2": 1
+      },
+      "Q6": {
+        "question": "What happened in the epilogue when the alien response arrived?",
+        "answer": "In the epilogue, the Meridian Array detected a new signal from Proxima Centauri on November 14, 2036, which was stronger, more complex, and modulated in response to humanity's message. The signal included a frequency analysis of Bach's Cello Suite No. 1, reconstructed with subtle modifications, indicating the aliens had listened to the music and sent back their own version. Dr. Elena Vasquez was the first to hear it and found it beautiful.",
+        "reference": "On November 14, 2036, a new signal arrived containing a frequency analysis of Bach's Cello Suite No. 1 reconstructed with subtle modifications. The aliens had listened to the music and sent back their own version.",
+        "rouge1": 0.6181818181818182,
+        "rouge2": 0.5555555555555556,
+        "rougeL": 0.5818181818181818,
+        "lr1": 1,
+        "lr2": 1
+      }
+    }
+  }
+}
